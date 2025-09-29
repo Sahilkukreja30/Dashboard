@@ -37,7 +37,7 @@ const mockTasks = [
 
 const stats = [
   { title: "Total Tasks", value: "127", icon: Activity, color: "text-primary" },
-  { title: "Active Users", value: "23", icon: Users, color: "text-info" },
+  {title:"TODO",value:"20",icon: Activity, color:"text-primary"},
   { title: "Completed", value: "89", icon: CheckCircle, color: "text-success" },
   { title: "Pending", value: "12", icon: Clock, color: "text-warning" },
 ];
